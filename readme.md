@@ -1,4 +1,5 @@
 # SSRPanel
+备份大佬的精髓！
 Support but not limited to: Shadowsocks,ShadowsocksR,ShadowsocksRR,V2Ray
 
 - [Demo](https://demo.ssrpanel.com)
